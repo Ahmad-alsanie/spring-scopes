@@ -22,3 +22,10 @@ You can also navigate to [controller](./src/main/java/com/sanie/springscopes/con
 - [Session Scope](./src/main/java/com/sanie/springscopes/session)
 - [Application Scope](./src/main/java/com/sanie/springscopes/application)
 - [WebSocket Scope](./src/main/java/com/sanie/springscopes/websocket)
+
+## Contributing
+
+Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
+
+-------------------------------------------------------------
+Happy coding!
