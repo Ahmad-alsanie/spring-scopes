@@ -27,5 +27,3 @@ You can also navigate to [controller](./src/main/java/com/sanie/springscopes/con
 
 Contributions are welcome! If you have improvements or additions, please submit a pull request or open an issue.
 
--------------------------------------------------------------
-Happy coding!
